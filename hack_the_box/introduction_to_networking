@@ -1,0 +1,52 @@
+**# Introduction to Networking**
+
+**## Networking Structure**
+
+### Network Types
+"Common Terminology:
+- WAN
+- LAN / WLAN
+- VPN 
+  - Site-To-Site VPN
+  - Remote Access VPN
+  - SSL VPN
+Book Terminology: 
+- GAN
+- MAN = multple LANs
+- PAN / WPAN 
+  - WPAN aka. Bluetooth"
+
+### Network Topologies
+### Proxies
+
+## Networking Workflow
+
+### Networking Models
+### OSI Model
+### TCP/IP Model
+
+## Addressing
+
+### Network Layer
+### IPv4 Addresses 
+### Subnetting
+### MAC Addresses
+### IPv6 Addresses
+
+## Protocols & Terminology
+
+### Networking Key Terminology
+### Common Protocols
+### Wireless Networks
+### Virtual Private Networks
+### Vendor Specific Information
+
+## Connection Establishment
+
+### Key Exchange Mechanisms
+### Authentication Protocols
+### TCP/UDP Connections
+### Cryptography
+
+
+
